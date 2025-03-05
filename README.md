@@ -1,7 +1,7 @@
-# MCQ Answer Sheet Checking System
+# Automated MCQ Answer Sheet Grading System
 
 ## Overview
-The **MCQ Answer Sheet Checking System** is an automated grading tool that evaluates student answer sheets against a predefined answer key. The project leverages **Convolutional Neural Networks (CNN)** for Optical Character Recognition (OCR) to read and evaluate scanned student responses.
+The **Automated MCQ Answer Sheet Grading System** is a tool designed to automatically grade student answer sheets by comparing their responses to a predefined answer key. The system utilizes **Convolutional Neural Networks (CNN)** for Optical Character Recognition (OCR) to process and assess scanned answer sheets.
 
 ## Features
 - **Automated Grading**: Uses CNN to recognize and compare answers.
