@@ -63,7 +63,7 @@ python train_cnn.py
 This will train a new **cnn_model.h5** based on the dataset.
 
 ## Output
-- The graded results are saved in the chosen output directory in CSV or PDF format.
+- The graded results are saved in the chosen output directory in CSV or xlsx format.
 
 ## Contributing
 Feel free to fork and contribute via pull requests.
