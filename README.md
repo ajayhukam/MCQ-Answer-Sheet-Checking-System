@@ -33,8 +33,8 @@ MCQ-AnswerSheet-Checker/
 ## Installation & Usage
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/Saurabh17jain/MCQ-AnswerSheet-Checker.git
-cd MCQ-AnswerSheet-Checker
+git clone https://github.com/ajayhukam/MCQ-Answer-Sheet-Checking-System.git
+cd MCQ-Answer-Sheet-Checking-System
 ```
 
 ### 2. Install Dependencies
